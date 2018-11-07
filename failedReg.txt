@@ -1,0 +1,30 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using System;  
+using System.Net;  
+using System.Net.Sockets;  
+using System.Text;
+using UnityEngine.SceneManagement;
+
+public class failedReg : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+		StartCoroutine (backToReg ());
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+		}
+	IEnumerator backToReg(){ //must be IEnumerator type to work properly
+		int waiter = 6;
+		yield return new WaitForSeconds (6);
+		SceneManager.LoadScene ("newReg");
+
+	}
+}
+ 
+
