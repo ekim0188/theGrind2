@@ -29,3 +29,7 @@ fileMonitor9.py -retrieves all filenames in a directory, retrieves conplete inod
         information into a file, detecting changes in the files and storing the information in a way that is useful to the user
 goToReg.cs -C# script to take the user to the registration page
 
+11/20/18 MB
+Uploaded chalkboardScene.unity and generateOrder.cs
+chalkboardScene-Rough design of a scene to display the order the user is going to create. The name, ingredients, size, and number of shots will be used to update the text on the board so the user can follow the recipe. In a following edit a checkbox can be added by each ingredient and updated via scripts when the user performs the correct step.
+generateOrder.cs-This script generates a random number to designate an order to be made by the user, in an updated version it will also select a random size for the user. A chalkboard update script will also be created to modify the UI text on the chalkboard so the user can see the drink they are going to create.
