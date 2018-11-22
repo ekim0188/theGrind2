@@ -33,6 +33,7 @@ goToReg.cs -C# script to take the user to the registration page
 Uploaded chalkboardScene.unity and generateOrder.cs
 chalkboardScene-Rough design of a scene to display the order the user is going to create. The name, ingredients, size, and number of shots will be used to update the text on the board so the user can follow the recipe. In a following edit a checkbox can be added by each ingredient and updated via scripts when the user performs the correct step.
 generateOrder.cs-This script generates a random number to designate an order to be made by the user, in an updated version it will also select a random size for the user. A chalkboard update script will also be created to modify the UI text on the chalkboard so the user can see the drink they are going to create.
+
 11/21/18 MB
 Uploaded chalkboardScene-properlyGenAndDisplayOrders.unity and generateOrder2.cs
 chalkboardScene-properlyGenAndDisplayOrders-added functionality to properly generate an order and display the drink name, ingredient 1 and 2, the size, and number of espresso shots on the chalkboard. The next iteration of this file will be to add a checkbox by each item on the chalkboard list and once the user adds the correct ingredient, cup, number of shots to tick the box corresponding to the step.
