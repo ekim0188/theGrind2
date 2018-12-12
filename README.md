@@ -38,3 +38,6 @@ generateOrder.cs-This script generates a random number to designate an order to 
 Uploaded chalkboardScene-properlyGenAndDisplayOrders.unity and generateOrder2.cs
 chalkboardScene-properlyGenAndDisplayOrders-added functionality to properly generate an order and display the drink name, ingredient 1 and 2, the size, and number of espresso shots on the chalkboard. The next iteration of this file will be to add a checkbox by each item on the chalkboard list and once the user adds the correct ingredient, cup, number of shots to tick the box corresponding to the step.
 generateOrder2-Uses the generated number to select the order to be made, as well as the size drink, and update the UI text on the chalkboard so the user has a visual display of the drink they are expected to make. Admittedly, the switch statement to select the drink could be made into a function to give the code a cleaner look.
+
+
+12/11/18 Initial communication  attempts between TCP sockets was intended to be separate from Unity, but was changed to in-game scripts during scene creation. Database creation instruction
