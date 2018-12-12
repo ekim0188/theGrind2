@@ -1,0 +1,5 @@
+/home/xu-744/socketClient/socketClient/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/xu-744/socketClient/socketClient/bin/Debug/socketClient.exe.mdb
+/home/xu-744/socketClient/socketClient/bin/Debug/socketClient.exe
+/home/xu-744/socketClient/socketClient/obj/x86/Debug/socketClient.exe
+/home/xu-744/socketClient/socketClient/obj/x86/Debug/socketClient.exe.mdb

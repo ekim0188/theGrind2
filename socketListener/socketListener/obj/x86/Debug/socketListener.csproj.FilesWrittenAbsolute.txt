@@ -1,0 +1,5 @@
+/home/xu-744/socketListener/socketListener/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/xu-744/socketListener/socketListener/bin/Debug/socketListener.exe.mdb
+/home/xu-744/socketListener/socketListener/bin/Debug/socketListener.exe
+/home/xu-744/socketListener/socketListener/obj/x86/Debug/socketListener.exe
+/home/xu-744/socketListener/socketListener/obj/x86/Debug/socketListener.exe.mdb

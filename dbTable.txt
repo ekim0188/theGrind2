@@ -1,0 +1,10 @@
+
+create table userinfo(idnum INT NOT NULL AUTO_INCREMENT,
+username VARCHAR(20) NOT NULL,
+email VARCHAR(30) NOT NULL,
+password VARCHAR(15) NOT NULL,
+achiev VARCHAR(8) NOT NULL,
+PRIMARY KEY (idnum));
+
+select * from [table name]; 
+describe [table name];
